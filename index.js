@@ -85,7 +85,7 @@ for (const copyBt of copyBtns) {
         count += 1;
 
         setInnerText(topCopyBtn, count);
-        alert("Number Copppied")
+        
     
   });
   
